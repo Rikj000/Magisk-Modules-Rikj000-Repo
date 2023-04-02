@@ -1,0 +1,3 @@
+[submodule "util"]
+	path = util
+	url = https://github.com/ya0211/magisk-modules-repo-util.git
