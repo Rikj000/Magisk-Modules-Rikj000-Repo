@@ -1,0 +1,7 @@
+{
+  "name": "Magisk Modules - Rikj000's Repo",
+  "base_url": "https://Rikj000.github.io/Magisk-Modules-Rikj000-Repo/",
+  "max_num": 3,
+  "enable_log": true,
+  "log_dir": "log"
+}
