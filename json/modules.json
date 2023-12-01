@@ -1,0 +1,61 @@
+{
+  "name": "Magisk Modules - Rikj000's Repo",
+  "metadata": {
+    "version": 1,
+    "timestamp": 1701464697.652217
+  },
+  "modules": [
+    {
+      "id": "aa4mg",
+      "name": "Android Auto 4 MicroG",
+      "version": "aa4mg 0.6",
+      "versionCode": 2304171,
+      "author": "sn00x, Byreqz & Rikj000",
+      "description": "Install Android Auto, optional stubs and XLauncher Unlocked on top of MicroG!",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1701386893.046542,
+        "license": "",
+        "homepage": "https://github.com/sn-00-x/aa4mg",
+        "source": "https://github.com/Rikj000/AndroidAuto4MicroG.git",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1681736769.0,
+          "version": "aa4mg 0.6",
+          "versionCode": 2304171,
+          "zipUrl": "https://Rikj000.github.io/Magisk-Modules-Rikj000-Repo/modules/AndroidAuto4MicroG/aa4mg_0.6_2304171.zip",
+          "changelog": "https://Rikj000.github.io/Magisk-Modules-Rikj000-Repo/modules/AndroidAuto4MicroG/aa4mg_0.6_2304171.md"
+        }
+      ]
+    },
+    {
+      "id": "mm",
+      "name": "Magisk Manager for Recovery Mode (mm)",
+      "version": "2023.11.4",
+      "versionCode": 202311040,
+      "author": "VR25 & Rikj000 @ XDA-Developers",
+      "description": "Easily manage your Magisk v19-26 Modules by running \"*/mm\" or \"sh /sdcard/mm\" from a terminal session in your custom recovery! (e.g. TWRP)",
+      "track": {
+        "type": "GIT",
+        "added": 1701386892.918246,
+        "license": "GPL-3.0",
+        "homepage": "https://forum.xda-developers.com/t/release-2022-6-26-magisk-manager-for-recovery-mode-mm.4084173/",
+        "source": "https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode.git",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1701374675.0,
+          "version": "2023.11.4",
+          "versionCode": 202311040,
+          "zipUrl": "https://Rikj000.github.io/Magisk-Modules-Rikj000-Repo/modules/Magisk-Manager-for-Recovery-Mode/2023.11.4_202311040.zip",
+          "changelog": ""
+        }
+      ]
+    }
+  ]
+}

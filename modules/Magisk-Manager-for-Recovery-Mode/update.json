@@ -1,0 +1,13 @@
+{
+  "id": "Magisk-Manager-for-Recovery-Mode",
+  "timestamp": 1701374675.0,
+  "versions": [
+    {
+      "timestamp": 1701374675.0,
+      "version": "2023.11.4",
+      "versionCode": 202311040,
+      "zipUrl": "https://Rikj000.github.io/Magisk-Modules-Rikj000-Repo/modules/Magisk-Manager-for-Recovery-Mode/2023.11.4_202311040.zip",
+      "changelog": ""
+    }
+  ]
+}
