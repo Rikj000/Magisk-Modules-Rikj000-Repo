@@ -2,9 +2,35 @@
   "name": "Magisk Modules - Rikj000's Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1701464988.344277
+    "timestamp": 1701467935.908425
   },
   "modules": [
+    {
+      "id": "aa4mg",
+      "name": "Android Auto 4 MicroG",
+      "version": "aa4mg 0.6.3",
+      "versionCode": 2311132,
+      "author": "sn00x, Byreqz & Rikj000",
+      "description": "Install Android Auto, optional stubs and XLauncher Unlocked on top of MicroG!",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1701465819.547718,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/sn-00-x/aa4mg.git",
+        "support": "https://github.com/sn-00-x/aa4mg/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1699885514.0,
+          "version": "aa4mg 0.6.3",
+          "versionCode": 2311132,
+          "zipUrl": "https://Rikj000.github.io/Magisk-Modules-Rikj000-Repo/modules/aa4mg/aa4mg_0.6.3_2311132.zip",
+          "changelog": "https://Rikj000.github.io/Magisk-Modules-Rikj000-Repo/modules/aa4mg/aa4mg_0.6.3_2311132.md"
+        }
+      ]
+    },
     {
       "id": "mm",
       "name": "Magisk Manager for Recovery Mode (mm)",
