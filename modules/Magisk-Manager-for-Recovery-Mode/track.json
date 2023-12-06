@@ -1,11 +1,11 @@
 {
   "id": "Magisk-Manager-for-Recovery-Mode",
   "enable": true,
-  "update_to": "https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode.git",
+  "update_to": "https://raw.githubusercontent.com/Rikj000/Magisk-Manager-for-Recovery-Mode/master/update.json",
   "license": "GPL-3.0",
   "homepage": "https://forum.xda-developers.com/t/release-2022-6-26-magisk-manager-for-recovery-mode-mm.4084173/",
   "source": "https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode.git",
   "added": 1701386892.918246,
-  "last_update": 1701886216.0,
+  "last_update": 1701887601.0,
   "versions": 2
 }
