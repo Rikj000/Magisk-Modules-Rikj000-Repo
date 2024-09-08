@@ -15,6 +15,13 @@
       "versionCode": 202312060,
       "zipUrl": "https://Rikj000.github.io/Magisk-Modules-Rikj000-Repo/modules/Magisk-Manager-for-Recovery-Mode/2023.12.6_202312060.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1725777375.0,
+      "version": "2024.9.8",
+      "versionCode": 202409080,
+      "zipUrl": "https://Rikj000.github.io/Magisk-Modules-Rikj000-Repo/modules/Magisk-Manager-for-Recovery-Mode/2024.9.8_202409080.zip",
+      "changelog": ""
     }
   ]
 }

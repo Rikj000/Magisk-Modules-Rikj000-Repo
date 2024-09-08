@@ -2,7 +2,7 @@
   "name": "Magisk Modules - Rikj000's Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1725742929.06049
+    "timestamp": 1725777944.496129
   },
   "modules": [
     {
@@ -34,10 +34,10 @@
     {
       "id": "mm",
       "name": "Magisk Manager for Recovery Mode (mm)",
-      "version": "2023.12.6",
-      "versionCode": 202312060,
+      "version": "2024.9.8",
+      "versionCode": 202409080,
       "author": "VR25 & Rikj000 @ XDA-Developers",
-      "description": "Easily manage your Magisk v19-26 Modules by running \"*/mm\" or \"sh /sdcard/mm\" from a terminal session in your custom recovery! (e.g. TWRP)",
+      "description": "Easily manage your Magisk v19-27 Modules by running \"*/mm\" or \"sh /sdcard/mm\" from a terminal session in your custom recovery! (e.g. TWRP)",
       "track": {
         "type": "ONLINE_JSON",
         "added": 1701386892.918246,
@@ -60,6 +60,13 @@
           "version": "2023.12.6",
           "versionCode": 202312060,
           "zipUrl": "https://Rikj000.github.io/Magisk-Modules-Rikj000-Repo/modules/Magisk-Manager-for-Recovery-Mode/2023.12.6_202312060.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1725777375.0,
+          "version": "2024.9.8",
+          "versionCode": 202409080,
+          "zipUrl": "https://Rikj000.github.io/Magisk-Modules-Rikj000-Repo/modules/Magisk-Manager-for-Recovery-Mode/2024.9.8_202409080.zip",
           "changelog": ""
         }
       ]
