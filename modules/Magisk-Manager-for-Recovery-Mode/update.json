@@ -3,13 +3,6 @@
   "timestamp": 1701374675.0,
   "versions": [
     {
-      "timestamp": 1701374675.0,
-      "version": "2023.11.4",
-      "versionCode": 202311040,
-      "zipUrl": "https://Rikj000.github.io/Magisk-Modules-Rikj000-Repo/modules/Magisk-Manager-for-Recovery-Mode/2023.11.4_202311040.zip",
-      "changelog": ""
-    },
-    {
       "timestamp": 1701886216.0,
       "version": "2023.12.6",
       "versionCode": 202312060,
@@ -21,6 +14,13 @@
       "version": "2024.9.8",
       "versionCode": 202409080,
       "zipUrl": "https://Rikj000.github.io/Magisk-Modules-Rikj000-Repo/modules/Magisk-Manager-for-Recovery-Mode/2024.9.8_202409080.zip",
+      "changelog": ""
+    },
+    {
+      "timestamp": 1734286733.0,
+      "version": "2024.12.15",
+      "versionCode": 202412150,
+      "zipUrl": "https://Rikj000.github.io/Magisk-Modules-Rikj000-Repo/modules/Magisk-Manager-for-Recovery-Mode/2024.12.15_202412150.zip",
       "changelog": ""
     }
   ]
