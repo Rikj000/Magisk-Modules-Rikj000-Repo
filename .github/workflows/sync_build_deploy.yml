@@ -69,14 +69,6 @@ jobs:
             rm versions_diff.md
           fi
 
-      - name: Write latest versions to summary
-        if: ${{ env.IS_SYNC != 'true' }}
-        run: |
-          python util/cli.py index --list > latest_versions.md
-          echo "## Latest Versions" >> $GITHUB_STEP_SUMMARY
-          echo "$(cat latest_versions.md)" >> $GITHUB_STEP_SUMMARY
-          rm latest_versions.md
-
       - name: Index and Push
         if: ${{ env.IS_SYNC == 'true' }}
         run: |
